@@ -7,13 +7,13 @@ We provide our very own 3DExpress.my Filament and resin setting for using in the
 - Download "3DEx filament Profile.zip and unzip it .
 - Open Bambu Studio
 - Go to File - Import - Import Configs... 
-- ![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/b304bd7d-2009-4a63-ba8c-ba43baef80fa)
+![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/b304bd7d-2009-4a63-ba8c-ba43baef80fa)
 
 - Find the unzip files location and select all the profile 
-- ![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/fc859244-d962-4a61-905b-ddad1754d996)
+![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/fc859244-d962-4a61-905b-ddad1754d996)
 
 - Enjoy! 
-- ![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/77940f31-d80e-4d96-b2f6-7b4e7ebf9a79)
+![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/77940f31-d80e-4d96-b2f6-7b4e7ebf9a79)
 
 ## IdeaMaker Filament Profile
 - Download "3DExpress.my IdeaMaker profile.zip" and unzip it
@@ -22,7 +22,7 @@ We provide our very own 3DExpress.my Filament and resin setting for using in the
 ![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/f64f210f-91b5-40a4-89d9-3d20c3521c4e)
 
 - Find the unzip file location and select it 
-![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/10e17f4b-7a75-4c55-9ab2-c776bfd6ee5d)
+![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/10e17f4b-7a75-4c55-9ab2-c776bfd6ee5d width = "290")
 
 - Click on Import
 - Enjoy your printing
