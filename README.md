@@ -43,12 +43,10 @@ We provide our very own 3DExpress.my Filament and resin setting for using in the
 - Open ideaMaker software
 - Got to Printer - Printer Setting... 
 <img src="3DExpress.my Setting PNG/ideaMaker/V4510 printer setting/01.png" width = "1000">
-
 - Find the unzip file location and select it
 <img src="3DExpress.my Setting PNG/ideaMaker/V4510 printer setting/02.png" width = "1000">
-
 - Click on Import 
-- Enjoy your printing
-- 
+- Enjoy your INFINITY 3D printing
+ 
 ## Links
 - Do chat with us at Facebook and WhatsApp for more inquiry.
