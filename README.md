@@ -7,7 +7,7 @@ We provide our very own 3DExpress.my Filament and resin setting for using in the
 - Download "3DEx filament Profile.zip and unzip it .
 - Open Bambu Studio
 - Go to File - Import - Import Configs... 
-<img src="3DExpress.my Setting PNG/Bambu Studio/01.png" width = "400">
+<img src="3DExpress.my Setting PNG/Bambu Studio/01.png" width = "1000">
 
 - Find the unzip files location and select all the profile 
 ![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/fc859244-d962-4a61-905b-ddad1754d996)
