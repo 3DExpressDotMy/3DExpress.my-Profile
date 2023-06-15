@@ -10,8 +10,8 @@ We provide our very own 3DExpress.my Filament and resin setting for using in the
 <img src="3DExpress.my Setting PNG/Bambu Studio/01.png" width = "1000">
 
 - Find the unzip files location and select all the profile 
-![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/fc859244-d962-4a61-905b-ddad1754d996)
-![image](https://github.com/3DExpress/3DExpress.my-Materials-Profile/assets/122084287/77940f31-d80e-4d96-b2f6-7b4e7ebf9a79)
+<img src="3DExpress.my Setting PNG/Bambu Studio/02.png" width = "1000">
+<img src="3DExpress.my Setting PNG/Bambu Studio/03.png" width = "1000">
 
 - Enjoy! 
 
