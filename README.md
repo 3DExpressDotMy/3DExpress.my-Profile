@@ -48,5 +48,15 @@ We provide our very own 3DExpress.my Filament and resin setting for using in the
 - Click on Import 
 - Enjoy your INFINITY 3D printing
  
-## Links
-- Do chat with us at Facebook and WhatsApp for more inquiry.
+Contact us at 3DEXPRESS.MY and let our knowledgeable team guide you through your 3D printing journey. We are here to help you find the right filament, offer expert advice, and ensure that you have a seamless experience from start to finish. Your satisfaction is our top priority, and we are committed to exceeding your expectations.
+
+You can reach us through the following channels:
+
+- Email: 3Dexpress.my@gmail.com
+- WhatsApp: +60 1156356248
+- Website: www.3dexpress.my
+- Our Official Shopee : https://shopee.com.my/3dexpress.my
+- Our Official Lazada : https://www.lazada.com.my/shop/3dexpress-my
+
+Connect with us today and discover how 3DEXPRESS.MY can elevate your 3D printing endeavors. We look forward to assisting you and being a part of your success.
+
