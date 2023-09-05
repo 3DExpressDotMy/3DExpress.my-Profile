@@ -4,7 +4,7 @@
 We provide our very own 3DExpress.my Filament and resin setting for using in the slicer. All the profile are ready to be use in Bambu Slicer, CHITUBOX and Idealmaker slicer.
 
 ## Bambu Lab Filament Profile
-- Download "3DEx filament Profile.zip and unzip it .
+- Download "3DEx filament Profile.zip or "Bambulab P1P profile" and unzip it .
 - Open Bambu Studio
 - Go to File - Import - Import Configs... 
 <img src="3DExpress.my Setting PNG/Bambu Studio/01.png" width = "1000">
